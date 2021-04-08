@@ -28,12 +28,15 @@
 
 ### 4月13日 第1回講義
 
-1. **4月13日講義資料**
+1. **4月13日講義資料(.pdf)**
    - [PDF](materials/statistics2021_0413.pdf)
      - WindowsやMacでPDFが開けない人は，Adobe Acrobat Reader をインストールしてください．
 
 2. **資料「1変数データの記述と要約」(.pdf)**
    - [PDF](materials/statistics2021_lecture1.pdf)
+
+3. **課題その1(.pdf)**
+   - [PDF](weekly/statistics2021_week1.pdf)
 
 ## 講義スケジュール（4月13日v1版）
 スケジュールは今後変更する可能性があります．目安程度にしておいてください．
