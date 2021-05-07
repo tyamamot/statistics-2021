@@ -40,7 +40,7 @@
    - [PDF](weekly/statistics2021_week3.pdf)
 
 4.  **課題その2をExcelで解いたサンプル(.xlsx)**
-    - [Excel](weekly/week2.xlsx)
+    - [Excel](materials/week2.xlsx)
 
 ### 4月27日 第2回講義
 
