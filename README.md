@@ -45,7 +45,7 @@
 
 2. **補足資料「母集団と標本」補足資料（標本分散の期待値の導出）(.pdf)**
    - [PDF](materials/statistics2021_lecture7_supplement.pdf)
-   - [Markdown版](materials/statistics2021_lecture7_supplement.md)
+   - [Markdown版]Teamsの「ファイル」にあります（ファイル名: statistics2021_lecture7_supplement.md）
 
 3. **課題その7(.pdf)**
    - [PDF](weekly/statistics2021_week7.pdf)
