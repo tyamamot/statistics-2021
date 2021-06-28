@@ -41,8 +41,8 @@
 
 ### 6月29日 第10回講義
 
-1. **6月22日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0622.pdf)
+1. **6月29日講義資料(.pdf)**
+   - [PDF](materials/statistics2021_0629.pdf)
 
 2. **資料「区間推定」(.pdf)**
    - [PDF](materials/statistics2021_lecture8.pdf)
