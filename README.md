@@ -47,8 +47,11 @@
 
 1. **7月13日講義資料(.pdf)**
    - [PDF](materials/statistics2021_0713.pdf)
+   
+2. **資料「仮説検定」(.pdf)**
+   - [PDF](materials/statistics2021_lecture9.pdf)
 
-2. **課題その10(.pdf)**
+3. **課題その10(.pdf)**
    - [PDF](weekly/statistics2021_week10.pdf)
 
 <!--
