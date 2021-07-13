@@ -56,7 +56,7 @@
    - [PDF](weekly/statistics2021_week10.pdf)
 
 4. **サンプル演習問題**
-   - [PDF](weekly/statistics2021_exercise0713.pdf)
+   - [PDF](materials/statistics2021_exercise0713.pdf)
 
 
 ### 7月6日 第11回講義
