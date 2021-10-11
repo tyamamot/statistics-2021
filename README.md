@@ -8,7 +8,10 @@
   - メール: t.yamamoto@sis.u-hyogo.ac.jp
 - 連絡: Teams，メール，Webexなんでも結構です
 
+## お知らせ
+- 2021年度前期終了に伴い，本ページを整理し，レポート課題と解説を削除しました．必要な人は山本まで連絡してください．
 
+<!--
 ## お知らせ
 - (2021/7/23) サンプル演習問題の解答をアップロードしました
 - (2021/7/20) 7月20日分資料一式をアップロードしました．
@@ -32,6 +35,7 @@
 - (2021/4/29) <span style="color:red;">講義のオンライン化などにともない，4月27日ミニ演習，課題その2の締切を5月7日（金）まで延長いたします．課題その2の締め切りは5月7日（金）21:00です．</span>
 - (2021/4/25) 4月27日分資料一式をアップロードしました
 - (2021/4/18) 4月20日分資料一式をアップロードしました
+-->
 
 <!--
 <details><summary>過去のお知らせ一覧</summary>
@@ -46,160 +50,64 @@
 ## 各講義の資料
 各講義の資料・課題の入手方法について記載します． パスワードが求められることがありますが，本講義で共通のパスワードです（ユニパやteamsでアナウンスします）．
 
-### 7月23日 第14回講義
 
-1. **サンプル演習問題の解答(.pdf)**
-   - [PDF](materials/statistics2021_0723.pdf)
-
-### 7月20日 第13回講義
-
-1. **7月20日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0720.pdf)
    
 ### 7月13日 第12回講義
-
-1. **7月13日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0713.pdf)
    
 2. **資料「仮説検定」(.pdf)**
    - [PDF](materials/statistics2021_lecture9.pdf)
 
-3. **課題その10(.pdf)**
-   - [PDF](weekly/statistics2021_week10.pdf)
-
-4. **サンプル演習問題**
-   - [PDF](materials/statistics2021_exercise0713.pdf)
-
-
-### 7月6日 第11回講義
-
-1. **7月6日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0706.pdf)
-
-2. **課題その9(.pdf)**
-   - [PDF](weekly/statistics2021_week9.pdf)
-
-3. **中間レポート解説（.pdf）**
-   - [PDF](materials/statistics2021_midterm_report_answer.pdf)
-
 ### 6月29日 第10回講義
-
-1. **6月29日講義資料(.pdf)（7月5日更新）**
-   - [PDF](materials/statistics2021_0629.pdf)
 
 2. **資料「区間推定」(.pdf)**
    - [PDF](materials/statistics2021_lecture8.pdf)
 
-3. **課題その8(.pdf)**
-   - [PDF](weekly/statistics2021_week8.pdf)
-
 ### 6月22日 第9回講義
-
-1. **6月22日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0622.pdf)
 
 2. **補足資料「母集団と標本」補足資料（標本分散の期待値の導出）(.pdf)**
    - [PDF](materials/statistics2021_lecture7_supplement.pdf)
    - [Markdown版]Teamsの「ファイル」にあります（ファイル名: statistics2021_lecture7_supplement.md）
 
-3. **課題その7(.pdf)**
-   - [PDF](weekly/statistics2021_week7.pdf)
-
 
 ### 6月15日 第8回講義
-
-1. **6月15日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0615.pdf)
-
 2. **資料「母集団と標本」(.pdf)**
    - [PDF](materials/statistics2021_lecture7.pdf)
 
-3. **課題その6(.pdf)**
-   - [PDF](weekly/statistics2021_week6.pdf)
-
-
-### 6月8日 第7回講義
-
-1. **6月8日講義資料「中間レポートについて」(.pdf)**
-   - [PDF](materials/statistics2021_0608.pdf)
-
-2. **中間レポート （<span style="color:red;">締切:6月25日（金）21:00）</span>**
-   - [Word版](materials/statistics2021_midterm_report.docx)
-   - [PDF版](materials/statistics2021_midterm_report.pdf)
-   - Markdown版: Teamsの「ファイル」にあります（ファイル名: statistics2021_midterm_report.md）
-
-3. **中間レポートの説明動画（Teamsの「ファイル」に動画のURLを記載）**
-   1. Wordで数式を書く方法
-   2. Excelで正規分布の確率を計算する方法
-   3. Googleスプレットシートで正規分布の確率を計算する方法
-   - 6月8日の講義時に，各自で視聴してもらう時間を設けます
 
 ### 6月1日 第6回講義
-
-1. **6月1日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0601.pdf)
 
 2. **資料「正規分布」(.pdf)**
    - [PDF](materials/statistics2021_lecture6.pdf)
 
 ### 5月25日 第5回講義
 
-1. **5月25日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0525.pdf)
 
 2. **資料「連続型の確率変数」(.pdf)**
    - [PDF](materials/statistics2021_lecture5.pdf)
 
-3. **課題その5(.pdf)**
-   - [PDF](weekly/statistics2021_week5.pdf)
-
 ### 5月18日 第4回講義
 
-1. **5月18日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0518.pdf)
 
 2. **資料「確率変数・確率分布」(.pdf)**
    - [PDF](materials/statistics2021_lecture4.pdf)
 
-3. **課題その4(.pdf)**
-   - [PDF](weekly/statistics2021_week4.pdf)
-
 ### 5月11日 第3回講義
-
-1. **5月11日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0511.pdf)
 
 2. **資料「確率の基礎」(.pdf)**
    - [PDF](materials/statistics2021_lecture3.pdf)
 
-3. **課題その3(.pdf)**
-   - [PDF](weekly/statistics2021_week3.pdf)
-
-4.  **課題その2をExcelで解いたサンプル(.xlsx)**
-    - [Excel](materials/week2.xlsx)
 
 ### 4月27日 第2回講義
 
-1. **4月27日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0427.pdf)
 
 2. **資料「2変数データの記述と要約」(.pdf)**
    - [PDF](materials/statistics2021_lecture2.pdf)
 
-3. **課題その2(.pdf)**
-   - [PDF](weekly/statistics2021_week2.pdf)
-
 ### 4月20日 第1回講義
-
-1. **4月20日講義資料(.pdf)**
-   - [PDF](materials/statistics2021_0420.pdf)
-     - WindowsやMacでPDFが開けない人は，Adobe Acrobat Reader をインストールしてください．
 
 2. **資料「1変数データの記述と要約」(.pdf)**
    - [PDF](materials/statistics2021_lecture1.pdf)
 
-3. **課題その1(.pdf)**
-   - [PDF](weekly/statistics2021_week1.pdf)
 
 ## 講義スケジュール（7月13日v4版）
 スケジュールは今後変更する可能性があります．目安程度にしておいてください．
